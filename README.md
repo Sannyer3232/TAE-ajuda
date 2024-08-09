@@ -1,1 +1,0 @@
-# TAE-tela-de-ajuda
