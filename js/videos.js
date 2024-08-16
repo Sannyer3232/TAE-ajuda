@@ -17,7 +17,7 @@ const videoSrc = {
     2: './assets/videos/tarefas.mp4',
     3: './assets/videos/contas_a_pagar.mp4',
     4: './assets/videos/patrimonio.mp4',
-    5: './assets/videos/dizimo.mp4'
+    5: './assets/videos/dizimos.mp4'
 };
 
 // Cria o elemento de vídeo e define a fonte correspondente
